@@ -1,2 +1,3 @@
 # hello-world
-Newb Git repository for work
+Noob Git repository for work
+Hello world, Im Áine. I am a total Git noob.
